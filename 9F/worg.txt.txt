@@ -1,0 +1,11 @@
+#include <iostream.h>
+
+using namespace std;
+
+int main()
+{int n;
+  cin>>u;
+  u=u*2;
+  cout<<u;
+  return1;
+}
